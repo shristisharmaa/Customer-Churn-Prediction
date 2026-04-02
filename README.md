@@ -21,3 +21,5 @@ This project predicts whether a customer will churn using Machine Learning.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+https://customer-churn-prediction-i3dq7xgqowtjf2gtunrman.streamlit.app/
